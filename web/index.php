@@ -482,7 +482,7 @@
 </div>
 <div id="footer">
   <div class="container">
-      <p>Copyright © Tempo. Design by <a href="http://www.templategarden.com" rel="nofollow">TemplateGarden</a></p>
+      <p>Copyright ©Alex Barazal. Design by <a href="http://www.templategarden.com" rel="nofollow">TemplateGarden</a></p>
   </div>
 </div>
 
